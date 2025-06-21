@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: Me Learning How to Create Pages in GitHub
 ---
